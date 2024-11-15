@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_quick_summary_bullet_points",
+  "info": {
+    "displayName": "BulletPoint",
+    "icon": "check",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Description": {
+      "type": "text"
+    }
+  }
+}
